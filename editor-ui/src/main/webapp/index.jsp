@@ -5,8 +5,8 @@
 		<title>Implementer's Workbench</title>
 		<meta name="description" content="Login screen">
 		<meta name="author" content="Edinardo Potrich">
-		<link rel="stylesheet" href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css">
-		<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css">
+		<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css">
+		<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css">
 		<link rel="stylesheet" href="lib/ng-grid/ng-grid.min.css">
 		<link rel="stylesheet" href="lib/select2/select2.css">
 		<link rel="stylesheet" href="lib/prettify/prettify.css">
